@@ -11,25 +11,25 @@ const items = [{
     "title": "Website",
     "subtitle": "Look at my work!",
     "image": website,
-    "link": "https://sagniksahoo.me" //your personal website or portfolio  link
+    "link": "https://galaxium.me" //your personal website or portfolio  link
 },
 {
     "title": "GitHub",
-    "subtitle": "@devgossips | 🏠 of my open-source projects",
+    "subtitle": "@Nim1com | 🏠 of my open-source projects",
     "image": github,
-    "link": "https://github.com/devgossips" //Github Profile link
+    "link": "https://github.com/Nim1com" //Github Profile link
 },
 {
     "title": "Instagram",
-    "subtitle": "@heysagnik | Hub of my awesome 😎 pics",
+    "subtitle": "@imeisyes | Hub of my awesome 😎 pics",
     "image": instagram,
-    "link": "https://instagram.com/heysagnik" //instagram profile link 
+    "link": "https://instagram.com/imeisyes" //instagram profile link 
 },
 {
     "title": "Twitter",
-    "subtitle": "@heysagnik | Don't forget to follow me 😉",
+    "subtitle": "@Nimq___ | Don't forget to follow me 😉",
     "image": twitter,
-    "link": "https://twitter.com/heysagnik"// twitter profile link 
+    "link": "https://twitter.com/Nimq___"// twitter profile link 
 },
 {
     "title": "Apps",
