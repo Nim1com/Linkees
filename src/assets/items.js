@@ -41,9 +41,9 @@ const items = [{
 
 {
     "title": "Dribbble",
-    "subtitle": "@virtuonic | Hub to the Shots of my 😎 apps ",
+    "subtitle": "@0xnim | Hub to the Shots of my 😎 apps ",
     "image": dribbble,
-    "link": "https://dribbble.com/virtuonic" // Dribbble profile link 
+    "link": "https://dribbble.com/0xnim" // Dribbble profile link 
 },
 
 {
