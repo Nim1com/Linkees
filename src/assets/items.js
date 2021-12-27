@@ -37,24 +37,12 @@ const items = [{
     "image": appstore,
     "link": "#"//
 },
-{
-    "title": "YouTube",
-    "subtitle": "@Sagnik Sahoo | Official channel of mine",
-    "image": youtube,
-    "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
-},
 
 {
     "title": "Dribbble",
     "subtitle": "@virtuonic | Hub to the Shots of my 😎 apps ",
     "image": dribbble,
     "link": "https://dribbble.com/virtuonic" // Dribbble profile link 
-},
-{
-    "title": "Telegram",
-    "subtitle": "@virtuonic | Chat with me instantly, Don't hesitate! ",
-    "image": telegram,
-    "link": "https://telegram.me/heysagnik" //Telegram Pofile 
 }]
 
 export default items
