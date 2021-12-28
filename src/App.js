@@ -26,7 +26,6 @@ function App() {
                     })
                 }
             </div>
-            <script async src="https://arc.io/widget.min.js#YpMu3B8u"></script>
             <Footer></Footer>
         </div>
     );
