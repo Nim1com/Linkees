@@ -21,7 +21,7 @@ function Header() {
         <img src={logo} alt="logo" />
         &nbsp;&nbsp;&nbsp;
         <h2>
-          <b>0xNim </b>
+          <b>0xNim.eth </b>
         </h2>
       </div>
       <button className="switch-theme-button" onClick={handleSwitchTheme}>
